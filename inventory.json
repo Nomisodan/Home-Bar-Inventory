@@ -1,0 +1,17 @@
+{
+    "dry_storage": {
+        "vodka": 8
+    },
+    "wine_room": {
+        "wine": 16
+    },
+    "fridge": {
+        "beer": 48
+    },
+    "freezer": {
+        "frozen berries": 8
+    },
+    "shelf": {
+        "vodka": 16
+    }
+}
