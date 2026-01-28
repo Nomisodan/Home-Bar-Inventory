@@ -1,8 +1,5 @@
 # Multi-Location Home Bar Inventory Manager
 
-## Video Demo URL
-https://youtu.be/F4QXMXu6OA0
-
 ## Project Overview
 The Multi‑Location Home Bar Inventory Manager is a Python-based backend system designed to track and manage items stored across multiple household locations, such as a pantry/dry storage area, wine room, fridge, freezer, and shelf. The project was inspired by real-world experience working in a restaurant environment, where inventory often exists in several different rooms and must be counted separately while still contributing to a global total. This project recreates that workflow in software, providing a clean, testable backend that can later be expanded into a full mobile application.
 
